@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="150" viewBox="0 0 340 150" fill="none">
+  <defs>
+    <linearGradient id="focusGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#081426" />
+      <stop offset="100%" stop-color="#050a12" />
+    </linearGradient>
+  </defs>
+  <rect width="340" height="150" rx="10" fill="url(#focusGrad)" stroke="#42D9FF" stroke-width="1.5" />
+  
+  <text x="20" y="38" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="16" font-weight="700" fill="#42D9FF">⚡ Sub-Second Performance</text>
+  
+  <text x="20" y="70" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-size="13" fill="#F5F7FF" line-height="1.5">
+    <tspan x="20" dy="0">Optimized render trees, edge streaming,</tspan>
+    <tspan x="20" dy="20">and guaranteed 95+ Core Web Vitals</tspan>
+    <tspan x="20" dy="20" fill="#AEBBD0">to maximize conversion rates.</tspan>
+  </text>
+</svg>
